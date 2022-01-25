@@ -1,2 +1,2 @@
 # crispy-waffle
-Mobiilisovellus, joka arpoo valmiista resepteistä kolme. Aikarajan vuoksi kaikkia toimintoja ei saatu valmiiksi
+Mobile application, that randomizes 3 recipes from database. Due to time constraints, not fully completed. School project.
